@@ -90,3 +90,10 @@ Use a bootstrap theme to customize your website. You may use a tool like Bootswa
 Add extra visualizations! The more comparisons the better, right?
 Use meaningful glyphicons next to links in the header.
 Have visualization navigation on every visualizations page with an active state. See the screenshots below.
+______________________________________________________________________________________________________________________________
+
+~I added pictures of what the final code would look like.~ 
+"dashboard_view" picture is what the html index would look like.
+"pic_final_table_view" is what the data link would take you to and it is the "table" html file.
+"pic_final_code_view" is what the humidity plot link would take you too. 
+
